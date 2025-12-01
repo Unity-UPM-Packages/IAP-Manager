@@ -1,0 +1,14 @@
+{
+    "name": "com.thelegends.iap.manager",
+    "rootNamespace": "com.thelegends.iap.manager",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
