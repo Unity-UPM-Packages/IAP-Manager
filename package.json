@@ -1,21 +1,23 @@
 {
   "name": "com.thelegends.iap.manager",
-  "displayName": "com.thelegends.iap.manager",
+  "displayName": "IAP Manager",
   "description": "com.thelegends.iap.manager description goes here.",
   "keywords": [],
   "version": "0.0.0",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.iap.manager#documentation",
-  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.iap.manager/releases",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/IAP-Manager#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/IAP-Manager/releases",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "repository": "https://github.com/Unity-UPM-Packages/com.thelegends.iap.manager.git",
-    "url": "https://github.com/Unity-UPM-Packages/com.thelegends.iap.manager.git"
+    "repository": "https://github.com/Unity-UPM-Packages/IAP-Manager.git",
+    "url": "https://github.com/Unity-UPM-Packages/IAP-Manager.git"
   },
   "author": {
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {
+    "com.thelegends.unity.patterns": "1.0.1"
+  }
 }
