@@ -1,5 +1,6 @@
 ﻿<Solution>
-  <Project Path="com.thelegends.iap.manager.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="com.thelegends.iap.manager.csproj" />
+  <Project Path="com.thelegends.iap.manager.Editor.csproj" />
   <Project Path="com.thelegends.iap.manager.Tests.csproj" />
 </Solution>

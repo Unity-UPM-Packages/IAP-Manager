@@ -1,7 +1,12 @@
 {
     "name": "com.thelegends.iap.manager",
     "rootNamespace": "com.thelegends.iap.manager",
-    "references": [],
+    "references": [
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:b9892e19a741c2c4690060e4a6416aca",
+        "GUID:e63a64384cc3ef04cac761c1ce76e9c2",
+        "GUID:d0bf1e9f644394e1de13e6ae02458b07"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
